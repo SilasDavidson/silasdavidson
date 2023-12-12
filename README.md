@@ -9,7 +9,7 @@
 
 ## Hi, I am Silas Davidson and welcome!  👋
 
-- 🔭 I am student competer Science
-- 🌱 I am learning Java the promming POO
+- 🔭 I am student computer Science
+- 🌱 I am learning Java the promming POO.
   
 --><div>
