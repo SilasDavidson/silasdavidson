@@ -1,6 +1,6 @@
 
-  <h3 align="center"> Hi!  I am Silas Davidson and wecome in my Git.
-<h3 align="center">A passionate in developer.</h3>
+  <h3 align="center"> Hi!  I am Silas Davidson and welcome in my Git.
+<h3 align="center">I am a computer science student and passionate in developer and learning.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
