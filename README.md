@@ -1,16 +1,6 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/SilasDavidson/silasdavidson" />
-&nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Java, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>back end mid-level developer</strong> focused on web development.</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">username=silasdavidson&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
-
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate in developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +13,8 @@
 ## My Skills
 
 #### Main Stack:
-[Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
