@@ -1,6 +1,6 @@
 
   <h3 align="center"> Olá!  Meu nome é  Silas Davidson e bem vindo ao meu Git.
-<h3 align="center">Sou estudante de Ciência da computação e Engenheio de Software, aqui encontrará projetos e detalhamente os conceitos básicos de JAVA  e POO. Fique a vontade para adquirir e compartilhar aprendizado!!! </h3>
+<h3 align="center">Sou  Engenheio de Software  e estudante de Ciência da computação, aqui encontrará projetos e detalhamente os conceitos básicos de JAVA  e POO. Fique a vontade para adquirir e compartilhar aprendizado!!! </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
