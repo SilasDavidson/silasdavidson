@@ -1,6 +1,6 @@
 
-  <h3 align="center"> Hi!  I am Silas Davidson and welcome in my Git.
-<h3 align="center">I am a computer science student and passionate in developer and learning.</h3>
+  <h3 align="center"> Olá!  Sou Silas e bem vindo ao meu Git.
+<h3 align="center">Sou estudante de Ciência da computação e Engenheio de Software, aqui encontrará projetos e detalhamente os conceitos básicos de JAVA  e POO!!! </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
